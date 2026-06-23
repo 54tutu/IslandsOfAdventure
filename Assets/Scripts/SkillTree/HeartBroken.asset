@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2080b888ed064f0468f33f8bfea7d5f4, type: 3}
+  m_Name: HeartBroken
+  m_EditorClassIdentifier: 
+  skillName: Heart Broken
+  maxLevel: 1
+  skillIcon: {fileID: 21300000, guid: d36f9a2656dda6e4d98882011d66c464, type: 3}
