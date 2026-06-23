@@ -11,7 +11,7 @@
 （6）.NPC对话交互系统
 （7）.任务系统
 
-目前部分UI设计还在进行；部分系统还在更加完善的进行中；麻雀虽小五脏俱全，已经玩命开发中，敬请期待🤯🤯🤯🤯🤯🤯.......
+目前部分UI设计还在进行；部分系统还在更加完善的进行中；麻雀虽小五脏俱全，已经玩命开发中梦想写出一个mini元气骑士😎，敬请期待🤯🤯🤯🤯🤯🤯.......
 
 <img width="1466" height="828" alt="image" src="https://github.com/user-attachments/assets/9671a89d-078e-4871-bd16-4453a6aa2023" />
 <img width="1463" height="828" alt="image" src="https://github.com/user-attachments/assets/ba089462-888d-4e7a-b1e8-5477266dd102" />
