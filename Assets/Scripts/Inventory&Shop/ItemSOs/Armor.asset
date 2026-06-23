@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3b5901cb98d75b4cb21784da9bea69f, type: 3}
+  m_Name: Armor
+  m_EditorClassIdentifier: 
+  itemName: Armour
+  itemDescription: 'Scarecrow Armor
+
+'
+  icon: {fileID: 21300000, guid: 056efa498d7b6e948937e74de83fab63, type: 3}
+  isGold: 0
+  stackSize: 1
+  currentHealth: 0
+  maxHealth: 0
+  speed: 0
+  damage: 0
+  duration: 0

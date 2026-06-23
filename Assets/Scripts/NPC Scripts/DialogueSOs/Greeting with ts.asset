@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee9552e013cc93b49b5eedc13228a573, type: 3}
+  m_Name: Greeting with ts
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: feee6e08a88829649838b0cbc7d6d50e, type: 2}
+    text: wo shi SB
+  - speaker: {fileID: 11400000, guid: feee6e08a88829649838b0cbc7d6d50e, type: 2}
+    text: zld is my dad
+  - speaker: {fileID: 11400000, guid: feee6e08a88829649838b0cbc7d6d50e, type: 2}
+    text: sure
+  options:
+  - optionText: tell me more!
+    nextDialogue: {fileID: 11400000, guid: 4b054ce7e538abe49a980ac8f57aeb29, type: 2}
+  - optionText: No interested
+    nextDialogue: {fileID: 11400000, guid: 5dc006c3171b362438a610d775b8e57d, type: 2}
